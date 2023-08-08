@@ -1,0 +1,8 @@
+.itemContainer{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid red;
+}
+.btns{
+    display: flex;
+}
